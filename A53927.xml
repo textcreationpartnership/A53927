@@ -1,0 +1,255 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached at St. Edmonds-Bury, in Suffolk, at the assizes, March 18th, 1692/3 before Lord Chief Justice Holt and Judge Rokeby and William Hammond, Esq., high-sheriff for that county / by Samuel Peck, lecturer of Ipswich.</title>
+            <author>Peck, Samuel.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53927</idno>
+            <idno type="STC">Wing P1037A</idno>
+            <idno type="STC">ESTC R35100</idno>
+            <idno type="EEBO-CITATION">14990655</idno>
+            <idno type="OCLC">ocm 14990655</idno>
+            <idno type="VID">103042</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53927)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103042)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1576:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached at St. Edmonds-Bury, in Suffolk, at the assizes, March 18th, 1692/3 before Lord Chief Justice Holt and Judge Rokeby and William Hammond, Esq., high-sheriff for that county / by Samuel Peck, lecturer of Ipswich.</title>
+                  <author>Peck, Samuel.</author>
+               </titleStmt>
+               <extent>27 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIII [1693]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LIX, 11 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103042:1"/>
+            <pb facs="tcp:103042:1" rendition="simple:additions"/>
+            <p>A SERMON Preached at St. <hi>EDMONDS-B<g ref="char:V">Ʋ</g>RY,</hi> in <hi>Suffolk,</hi> AT THE ASSIZES, <hi>March</hi> 18<hi rend="sup">th.</hi> 1692/3.</p>
+            <p>BEFORE Lord Chief Juſtice <hi>Holt</hi> and Judge <hi>Rokeby,</hi> AND <hi>William Hammond,</hi> 
+               <abbr>Eſq</abbr> High-Sheriff for that County.</p>
+            <p>By <hi>SAMUEL PECK,</hi> Lecturer of <hi>Ipſwich.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower End of <hi>Cheapſide</hi> near <hi>Mercers-Chappel.</hi>
+            </p>
+            <p>M DC XCIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:103042:2"/>
+            <pb n="3" facs="tcp:103042:2"/>
+            <epigraph>
+               <bibl>Isa. LIX. 11.</bibl>
+               <q>We look for Salvation, but it is far off from us.</q>
+            </epigraph>
+            <p>THeſe Words require your Attention, for they Treat of Salvation; not Salvati<g ref="char:EOLhyphen"/>on Eternal (which very few in our Dayes mind or regard) but Salvation Tem<g ref="char:EOLhyphen"/>poral and National, deſired by and would be Welcome to us all; and I Wiſh we were all as deſirous of the right Methods to this Mercy as we are of the Mercy it ſelf. But amongſt the manifold Fallacies which the Helliſh Im<g ref="char:EOLhyphen"/>poſtor (who deceiveth the whole World) im<g ref="char:EOLhyphen"/>poſeth <note place="margin">Rev. 12. 9.</note> upon People of all Times and States, there are none, by which a greater Number (and with more apparent Danger) are delu<g ref="char:EOLhyphen"/>ded, than by the Predictions of his Falſe Pro<g ref="char:EOLhyphen"/>phets, <hi>who call Evil good, and Good evil, who put Darkneſs for Light, and Light for darkneſs,</hi> and
+<pb n="2" facs="tcp:103042:3"/>
+boldly Propheſieth Peace, when the Lord by his Prophets propheſieth Trouble. Such was the Deluſion of this People, the <hi>Jews,</hi> at this time, when God by this and the follow<g ref="char:EOLhyphen"/>ing Prophets breaths forth ſeveral Commi<g ref="char:EOLhyphen"/>nations of ſevere Judgments for their Stub<g ref="char:EOLhyphen"/>bornneſs and Rebellion, even ſuch as (if not prevented by a ſincere and ſpeedy Repen<g ref="char:EOLhyphen"/>tance and Reformation) would end in their Deſtruction: But the Falſe Prophets heal all, Predict fair Weather, aſſure them all was and would be well, Crying Peace, Peace, when there was no Peace, but the Voice of the Lord was Fury and Wrath: Whereupon they grow regardleſs of the Lord's Prophets, fearleſs of his Threatnings, and conſequently Bold and Preſumptuous in their Sin; 'till the Storm began to fall, and then they Cry out, (and not without Cauſe) We are deceived, theſe Falſe Prophets have meerly Deluded and Mocked us; for according to their Pre<g ref="char:EOLhyphen"/>dictions, <hi>We looked for Peace, but no Peace came, for Salvation, but it was far from us.</hi>
+            </p>
+            <p>From which Words give me leave to re<g ref="char:EOLhyphen"/>commend to your Conſideration theſe two Seaſonable Propoſitions:
+<list>
+                  <pb n="3" facs="tcp:103042:3"/>
+                  <item>1. <hi>That a Nation or People may Expect and Look for Deliverance, Peace and Salvation, and God may delay and fruſtrate their Ex<g ref="char:EOLhyphen"/>pectations.</hi>
+                  </item>
+                  <item>2. <hi>That when God doth fruſtrate and delay a People's Expectation of the Good, of the Peace and Salvation they hope and look for, Sin is the Cauſe of it.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Of the firſt briefly.</p>
+            <p n="1">1. <hi>A Nation or People may Expect and look for Deliverance, Peace and Salvation, and God may delay and fruſtrate their Expectations:—We look<g ref="char:EOLhyphen"/>ed for Salvation, but it is far off from us.</hi> They may expect to be Planted, and God may Pluck them up; to be Built, and he may Break them down: They may expect a Calm, <note place="margin">Jer. 45. 4.</note> and God may ſend a Storm, that the Shad<g ref="char:EOLhyphen"/>dows of the Night of Trouble ſhould flee away, and the Sun of Peace and Healing ſhould ariſe, and God may lengthen the Night, and encreaſe the Darkneſs; they may expe Mount <hi>Gerizim,</hi> and God may bring them to Mount <hi>Ebal;</hi> as this People Complain <note place="margin">Deut. 27. 12, 13.</note> here, ſaying, <hi>Verſe</hi> 9, and 10. <hi>We wait for light,
+<pb n="6" facs="tcp:103042:4"/>
+but behold obſcurity; for brightneſs, but we walk in darkneſs; we look for Salvation, but it is far from us, we are in deſolate places, as dead men:</hi> Yea, more than once we hear them making the ſame La<g ref="char:EOLhyphen"/>mentation, <hi>Jer. 8. 15, 20. We looked for peace, but no good came, and for a time of health, and be<g ref="char:EOLhyphen"/>hold trouble; the Harveſt is paſt, the Summer is end<g ref="char:EOLhyphen"/>ed, and we are not ſaved:</hi> And that mournful Expoſtulation ſpeaks as much, <hi>Jer. 14. 19. Haſt thou utterly rejected Judah? hath thy ſoul loathed Zi<g ref="char:EOLhyphen"/>on? why haſt thou ſmitten us, and there is no heal<g ref="char:EOLhyphen"/>ing for us? we looked for peace, and there was no good, for a time of healing, and behold trouble.</hi> And did not God deal thus with this People in the Wilderneſs, when he had brought them to the very borders and skirts of the promiſed Land, and they were in full expectation of a ſpeedy Entry and Poſſeſſion; yet God brought them back, and cauſed their Carkaſſes to fall <note place="margin">Numb. 14. 25. to 30.</note> in the Wilderneſs; dealing with them as with <hi>David</hi>'s Enemies, of whom 'tis ſaid, <hi>They look<g ref="char:EOLhyphen"/>ed,</hi> 
+               <note place="margin">2 Sam. 22. 42.</note> 
+               <hi>but there was none to ſave, even to the Lord, but he anſwered them not?</hi> Many more Inſtances there are (beſides what our own Experience can fur<g ref="char:EOLhyphen"/>niſh) to prove, that God may be in a path<g ref="char:EOLhyphen"/>way of Mercy to a Land, or Kingdom, and
+<pb n="7" facs="tcp:103042:4"/>
+(being provoked) may return again into the paths of Judgment. The Hand of Mercy may be ſtretched out, as <hi>Zarah</hi>'s hand out of <hi>Tamars</hi> Womb, and be pulled in again as his <note place="margin">Gen. 38. 28, 30.</note> was. 'Tis true, ſuch Divine Diſpenſations may ſeem ſevere, and ſuch Delays and Diſ<g ref="char:EOLhyphen"/>appointments hard and grievous to be born; yet moſt righteous and juſt, becauſe deſerved, as the next General will more fully inform us, which is this:</p>
+            <p n="2">2. When God doth fruſtrate a Peoples Ex<g ref="char:EOLhyphen"/>pectations of the good, of the Deliverance and Salvation they hope and look for, Sin is the Cauſe of it. Divine Mercies are always free, Divine Judgments are always deſerved. Thus far this People juſtifie God, and Acknowledge the Equity of his proceedings, <hi>Jer. 14. 19, 20. We looked for peace, and no good came, for a time of healing, and behold trouble, for we have ſinned a<g ref="char:EOLhyphen"/>gainſt thee.</hi> And if they had not confeſſed this to have been the Gauſe of their diſappoint<g ref="char:EOLhyphen"/>ment, yet it is ſufficient that the Prophet de<g ref="char:EOLhyphen"/>clares it in the very beginning of this Chapter wherein the Text is,—ſaying, <hi>Behold the Lords hand is not ſhortned, that he cannot ſave; but your Ini<g ref="char:EOLhyphen"/>quities</hi> (a larger Catalogue of which follows)
+<pb n="8" facs="tcp:103042:5"/>
+               <hi>have ſeparated between you and your God.</hi> As if the Prophet had ſaid—Do you complain that the hoped for good is delay'd, the expected Salvation far off? And what is the Cauſe? where lyes the blame? Not in your God, who by a mighty Hand, and ſtretched-out Arm wrought wonderful Salvations for your Fore-fa<g ref="char:EOLhyphen"/>thers, and is able to work as great Salvation for you; for there is no impotency in him, <hi>his hand is not ſhortned;</hi> the Fault or Blame there<g ref="char:EOLhyphen"/>fore muſt be in you, in your Sins, your re<g ref="char:EOLhyphen"/>peated Impieties and Rebellions, which are the <hi>Interſtitium,</hi> that divides or ſeparates between you and your God, and hinder good things from you. And of like import is that Divine Declaration, <hi>Jer.</hi> 18. 9, 10. <hi>At what inſtant I ſhall ſpeak concerning a Nation, or Kingdom, to build it, and to plant it; if it do evil in my ſight, that it obey not my Voice, then will I repent of the good wherewith I ſaid I would benefit them:—</hi>Yea, not only withhold the intended good from them, but do them hurt, and <hi>conſume them, after I have done them good, ſaith the Lord,</hi> Joſh. 24. 20.</p>
+            <p>And divers ways may a People provoke the Divine Juſtice to ſuch terrible and deſtroying Reſolutions: As,
+<list>
+                  <item>
+                     <pb n="9" facs="tcp:103042:5"/>
+1. When a People ſeek and expect Salvati<g ref="char:EOLhyphen"/>on or Deliverance where it is not to be had; as <hi>Ahaziah</hi> ſeeks Health and Recovery not from the God of <hi>Iſrael,</hi> but the God of <hi>Ekron;</hi> for which the God of <hi>Iſrael</hi> by <hi>Elijah</hi> ſends him word, that he ſhould never come down from his Bed, but certainly dye. When a Nation or People, ſick, wounded and languiſhing, with foreign Wars, and domeſtick Diviſions, ſhall ſeek to any for Health and Salvation ſave to the Lord, they provoke him to withhold Sal<g ref="char:EOLhyphen"/>vation from them, and to pronounce Sentence of Death and Deſtruction againſt them. He, who is ſtyled the God of Salvation, will not have his Honour and Glory given to Men or Money, to Armies or Navies, or any other In<g ref="char:EOLhyphen"/>ſtrument whatſoever, without making that Peo<g ref="char:EOLhyphen"/>ple ſenſible of their Fault and Sin, by a deſer<g ref="char:EOLhyphen"/>ved fruſtration and diſappointment of their Hopes and Expectations: Eſpecially where the Hand of his Providence and its ſaving Operati<g ref="char:EOLhyphen"/>ons are ſo viſible and apparent, that we may as well deny the deliverance it ſelf, as deny it to be the Lords doing. That Martial King <hi>Edward</hi> the III. was accounted more commendable for
+<pb n="10" facs="tcp:103042:6"/>
+this, than for his Victories, that having van<g ref="char:EOLhyphen"/>quiſhed the <hi>French</hi> King by force of Battel, he put off from himſelf the whole Glory, and devoutly gave it unto God, by cauſing to be Sung, <hi>Non Nobis Domine, non Nobis,</hi> &amp;c. <hi>Not unto us, Lord, not unto us, but unto thy Name be the Glory given.</hi> And in <hi>Juſtinians</hi> Law, it was de<g ref="char:EOLhyphen"/>creed, that no Workman ſhould ſet his Name upon that Building which he made at another Mans coſt. God is more jealous of his Ho<g ref="char:EOLhyphen"/>nour than Men can be of theirs, and will not ſuffer that Preſumption to go unpuniſhed that writes our Names upon his Works. When a People therefore rob God of his Honour, no wonder if God delay their Hopes, and diſappoint their Expectations:—for he hath ſaid, <hi>I am the Lord, that is my Name, and my glo<g ref="char:EOLhyphen"/>ry will I not give to another.</hi> Iſa. 42. 8.</item>
+                  <item>2. A People may look for Salvation, and it may be far off, when they deſire it chiefly or only for Natural (or which is worſe for ſin<g ref="char:EOLhyphen"/>ful) Ends; deſire and wiſh for an end of their Troubles, that they may not loſe their Eſtates, exhauſt their Treaſure, or to recover what they have expended and loſt, which is in it ſelf law<g ref="char:EOLhyphen"/>ful; but if this be all, if we reſt here, and look
+<pb n="11" facs="tcp:103042:6"/>
+no further in our purſuits after Tranquility and Salvation, it is ſinful. As if a Man ſhould de<g ref="char:EOLhyphen"/>ſire the quenching of a Fire in his Neighbours Houſe, only to ſave his own, and ſo that were ſecured, he would not care if the reſt were laid in aſhes:—And worſe ſtill, when the end is, that they may have the more to ſpare and expend upon their Luſts, their Pride, Drun<g ref="char:EOLhyphen"/>kenneſs, their Laſciviouſneſs and Wantonneſs, Malice and Revenge, and take their ſinful Pleaſures and Delight with greatet liberty and boldneſs, being at preſent under ſome reſtraint or awe by Divine Judgment felt or feared. There is as much Religion in ſuch deſires of Salvation and Deliverance, as there is in ſome Malefactors, who wiſh for the Aſſizes, in hopes they may be ſet free, and return to their old Trade again. And as theſe latter Offendors are oft-times cut ſhort of their hopes, by the juſt Sentence of a Judge on Earth; ſo muſt the former expect to be by the Righteous proceed<g ref="char:EOLhyphen"/>ings of that Judge that ſitteth in the Hea<g ref="char:EOLhyphen"/>vens.</item>
+                  <item>3. When a Nation or People generally are more ſolicitous for a Temporal than an Eter<g ref="char:EOLhyphen"/>nal Salvation; ſeek Peace more than Truth,
+<pb n="12" facs="tcp:103042:7"/>
+Earth more than Heaven, <hi>and their own things more than the things of Jeſus Chriſt,</hi> which he him<g ref="char:EOLhyphen"/>ſelf tells us ought to have the preference in our deſires, <hi>Matth.</hi> 6. 33. aſſuring us that whatever we thus deſire, ſhall be given; that if we firſt ſeek peace with God, he will give us peace with men, make our <hi>Enemies to be at peace with us,</hi> Prov. 16. 7. Every Sin is a Make-bate be<g ref="char:EOLhyphen"/>tween God and Men; but Worldly-minded<g ref="char:EOLhyphen"/>neſs eſpecially ſets God and a Land at diffe<g ref="char:EOLhyphen"/>rence. When the Jews built and cieled their own Houſes, letting the Houſe of God lye waſte, the Prophet <hi>Haggai</hi> 1. 2. tells us, God blaſted them, blaſted their Comforts and En<g ref="char:EOLhyphen"/>joyments, their Hopes and Expectations: And when they began to build God's Houſe, and to mind thoſe things that were of higheſt concern God began to bleſs them; <hi>Ye<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, from this for<g ref="char:EOLhyphen"/>ward, I will bleſs them, ſaith the Lord,</hi> Haggai 2. 19.</item>
+               </list>
+            </p>
+            <p>The juſt and due regard of Truth and Righ<g ref="char:EOLhyphen"/>teouſneſs, of God and Religion, is the direct method to Salvation, Temporal as well as E<g ref="char:EOLhyphen"/>ternal; and the promoting of true Piety, and the power of Godlineſs, the ready way too ſit under our own Vines and Fig-trees in pea<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>;
+<pb n="13" facs="tcp:103042:7"/>
+but when the Grand Inqueſt, and general Cry of a People is, <hi>Who will ſhew us any good?</hi> when greedy deſires after Earth eats out all true Affections after Heaven and heavenly things; when God is neglected, his Sabbaths prophaned, his Word and Ordinances flighted, all the Intereſts of Religion, Chriſt and his Kingdom, are diſregarded, no wonder that the Expectations of ſuch a Nation are diſappoint<g ref="char:EOLhyphen"/>ed, and their hoped for Deliverance and Sal<g ref="char:EOLhyphen"/>vation delayed.</p>
+            <p n="4">4. When a People have been in diſtreſs, groaning ſome time under heavy Yokes<g ref="char:punc">▪</g> and Burdens, and have cryed unto the Lord, who hath heard their Cry, began to ſhew them Mercy, and ſend Salvation to them, and in<g ref="char:EOLhyphen"/>ſtead of Praiſes, behold new Provocations, in<g ref="char:EOLhyphen"/>ſtead of returning unto God, revolting <hi>more and more,</hi> Iſa. 1. 5. And is not this our Caſe? How long is it ſince our Peace and our Proper<g ref="char:EOLhyphen"/>ties (of which our Religion is the principal) were invaded, and in a great meaſure it reſted from us by an Arbitrary Power: When we ſighed under Romiſh Task-maſters, whoſeave<g ref="char:EOLhyphen"/>ry Mercies are Cruel; when divers Champions for their Religion and Countrey were baſely
+<pb n="14" facs="tcp:103042:8"/>
+and inhumanely made away and murdered in ſeveral places, as well as publick Scaffolds; When Horror lay down with us in the Even<g ref="char:EOLhyphen"/>ing, and Fears roſe with us in the Morning: When Wickedneſs poſſeſſed the place of Judg<g ref="char:EOLhyphen"/>ment, <note place="margin">Eccleſ. 17. 16.</note> and Iniquity the place of Righteouſneſs: In a word, when our Sorrows and Sufferings, our Perplexities and Griefs were too many and great to be expreſſed (tho' not to be forgotten by many amongſt us) and God was pleaſed to remember us in our low Eſtate, to raiſe up and ſend a Deliverer to us, and give us hopes of a full Salvation from all our Troubles;—and inſtead of returning to the God of our Salvation, we return anew to our Sins and A<g ref="char:EOLhyphen"/>bominations in his ſight, what can we expect but new ſtrokes, new Judgments, new fru<g ref="char:EOLhyphen"/>ſtrations and diſappointments. For God doth neither ſend nor continue troubles to us, be<g ref="char:EOLhyphen"/>cauſe he delights in them, but becauſe he would humble and reform us by them, <hi>Heb.</hi> 12. 10. Old Sins therefore repeated and continued in, call for new Arrows of Divine Vengeance, <hi>Levit.</hi> 26. 23. our renewed treſpaſſes as vapours aſcending up to the Heavens, bring down Thunder and Lightning upon us. And if we
+<pb n="15" facs="tcp:103042:8"/>
+enquire why the Chariots of Peace and Salva<g ref="char:EOLhyphen"/>tion are ſo long a coming; the Anſwer is eaſie, our horrible and repeated Rebellions againſt God have clogged their Wheels; with our own Hands, with our Heaven-daring Oaths and Imprecations, our Adulteries and Blaſphe<g ref="char:EOLhyphen"/>mies, our Pride, Intemperance and other Pro<g ref="char:EOLhyphen"/>phaneſſes, have we put Salvation and Delive<g ref="char:EOLhyphen"/>rance far off from us. We may impute the prolongation of our Troubles, and delay of our Peace and Salvation to the treachery and unfaithfulneſs of ſecret Enemies at home, and to the Policy and Power of open Foes abroad, but alas the Troublers of our <hi>Iſrael</hi> are our Sins, our hainous Impieties under Goſpel Light, ma<g ref="char:EOLhyphen"/>nifeſt expreſſes of the Divine Love, by ſignal Mereies, Deliverances, and after repeated Vows and Promiſes, and publick and ſolemn Faſts and Humiliations: For were we truly hum<g ref="char:EOLhyphen"/>bled and reformed, and did our ways pleaſe the Lord, he could eaſily make our Enemies of all ſorts to be at peace with us; <hi>He hath de<g ref="char:EOLhyphen"/>livered us, and can deliver us, his hand is not ſhort<g ref="char:EOLhyphen"/>ned, that he cannot ſave, but our Iniquities put back,</hi> delay and hinder good things from us.</p>
+            <p>
+               <pb n="16" facs="tcp:103042:9"/>
+And now if we reflect upon what hath been ſaid, wherein we have ſeen the Mala<g ref="char:EOLhyphen"/>dy, or Cauſe of our Miſeries; it follows of courſe, that the Remedies be enquired after, and they are two, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>1. A patient Submiſſion.</item>
+               <item>2. A real and ſpeedy Reformation.</item>
+            </list>
+            <p n="1">1. <hi>A patient Submiſſion to the Divine Will, if yet God ſhall delay our Hopes and Expectations;</hi> if yet he ſhould cauſe the Sun of Peace to ſtand, and the Chariots of Salvation to be long a coming, ſince the Fault is not in him, but our ſelves; let us neither wonder nor murmur at the prolongation of our Troubles, ſo long as we multiply and perſevere in our Provocati<g ref="char:EOLhyphen"/>ons; Some Men (if things go not as they would have them) are apt (as the Prophet ſpeaks, <hi>Pſal.</hi> 73. 9.) to <hi>ſet their Mouths a<g ref="char:EOLhyphen"/>gainſt Heaven,</hi> and to mutter againſt the All<g ref="char:EOLhyphen"/>wiſe Governour of the World, and his moſt Righteous Proceedings and Diſpenſations, as the People in the Wilderneſs, and thought they had ſome reaſon for it too; their Journey was tedious, their Hardſhips many, want of Bread
+<pb facs="tcp:103042:9"/>
+               <pb facs="tcp:103042:10"/>
+               <pb n="17" facs="tcp:103042:10"/>
+and Water, their Enemies ſuch as they dreamt not of, and withall they had forgotten their for<g ref="char:EOLhyphen"/>mer bondage in <hi>Egypt.</hi> Upon the like grounds are we prone to murmur alſo, becauſe we did not think (perhaps) at firſt, the War would have proved ſuch hot Work, have coſt ſo much Blood, and ſo much Treaſure; becauſe we could not believe our Enemies would have proved ſo potent, but a Summer or two might have ended the Conteſt: And becauſe we have forgotten our late Bondage and Slavery, Bur<g ref="char:EOLhyphen"/>dens and Oppreſſions, not conſidering all this while, our Sins have deſerved this and much more; which if rightly thought of, we ſhould be ſo far from murmuring, that our Expecta<g ref="char:EOLhyphen"/>tions and hopes of Peace and Salvation are de<g ref="char:EOLhyphen"/>lay'd, that we ſhould (with the Church) ra<g ref="char:EOLhyphen"/>ther wonder at the Lord's Mercies, that we are not Conſumed; that we are not yet given as a Prey into the hands of them that hate us.</p>
+            <p n="2">2. The other part of our Remedy, is <hi>a real and ſpeedy Reformation.</hi> As we deſire God ſhould redreſs our Grievances, and haſten our full Deliverance, let us forſake our Sins, and re<g ref="char:EOLhyphen"/>form our Lives. Would we have the Breath
+<pb n="18" facs="tcp:103042:11"/>
+of our Noſtrils, his Gracious Majeſty, King <hi>William,</hi> ſtill preſerved from open Violence and ſecret Treachery, have his Armies and Navies attended with ſucceſs, and crowned with Vi<g ref="char:EOLhyphen"/>ctory againſt the Common Enemy and Op<g ref="char:EOLhyphen"/>preſtor, and an honourable and ſpeedy Peace concluded; then let us make our peace with God by Repentance and Amendment: If there be any truth in the Word of God, we muſt <hi>repent or periſh;</hi> if any ſtability in the Revealed Will and Laws of Heaven, there is no other way to Peace and Salvation but this. It were eaſie to make a large Roll of thoſe Sins, thoſe mighty Sins, <hi>Amos</hi> 5. 12. which continue trou<g ref="char:EOLhyphen"/>bles to our Nation, and call for a National Re<g ref="char:EOLhyphen"/>pentance; but I muſt only mention a few of them, and that with all brevity too.—As,
+<list>
+                  <item>1. Murmuring and Diſcontent (as was ſaid but now) at our preſent State and Condition; a Sin which God declared himſelf as much provoked by, as by any of the untoward Car<g ref="char:EOLhyphen"/>riages of the <hi>Jews,</hi> and for which he cut off and deſtroy'd, by the <hi>Amalekites</hi> and <hi>Canaanites,</hi> many thouſands of them; and no wonder, for it is a Declaration of our diſlike of ſome<g ref="char:EOLhyphen"/>what in God, in his Dealings and Diſpenſati<g ref="char:EOLhyphen"/>ons
+<pb n="19" facs="tcp:103042:11"/>
+towards our ſelves or others, that might be mended, and done better, with more Ju<g ref="char:EOLhyphen"/>ſtice, or more Wiſdom than it is;—Yea, 'tis a Sin that ever carries ſomething of Rebel<g ref="char:EOLhyphen"/>lion in it; and a proneneſs (were it in our pow<g ref="char:EOLhyphen"/>er) of Revenge againſt God, who hath not done (as we think and judge) the thing that is right and juſt towards us. And will the All<g ref="char:EOLhyphen"/>knowing, Juſt and Wiſe Governour of the World, bear this at our hands?</item>
+                  <item>2. Want of brotherly Pity and Compaſſions towards our Fellow-Members in diſtreſs abroad, through the Rage and Fury of an Enemy, who ſeeks the Ruine not only of their Bodies, but of their Souls alſo.</item>
+               </list>
+            </p>
+            <p>Methinks I hear thoſe poor inſlaved and op<g ref="char:EOLhyphen"/>preſſed Wretches, groaning out their Com<g ref="char:EOLhyphen"/>plaints to us after this manner: <hi>Oh our Bre<g ref="char:EOLhyphen"/>thren in</hi> England, <hi>who yet Enjoy your Peace, Li<g ref="char:EOLhyphen"/>berty, Property, and Freedom of your Religion, will you not yet Afflict your Souls, and repent of your Sins, to ſave us? Care you not that we periſh? is it nothing to you that our Wives are raviſhed, our Vir<g ref="char:EOLhyphen"/>gins deflowred, our Young Men ſlain with the Sword, our Houſes burnt, our Cities laid waſte, our Temples
+<pb n="20" facs="tcp:103042:12"/>
+made deſolate, our Goſpel, and our Religion ruinated?</hi> Yea, how few are there amongſt us, that ſo far Compaſſionate their Miſeries as to mortifie a beloved Luſt, ſhed a Tear, breath out a Sigh, or offer up a Prayer in Secret to Heaven for their Salvation and Deliverance. <hi>O</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>how great are thy Complaints, how ſmall thy Compaſſions? thy Murmurings many, thy Mercies few?</hi>
+            </p>
+            <p n="3">3. The unnatural, unchriſtian Diviſions that are amongſt us, the ſhame of our Religion, and the Joy and Hope of the Enemies of it. <hi>This is my Commandment, that ye love one another, and by this ſhall all men know that ye are my Diſ<g ref="char:EOLhyphen"/>ciples; if ye love one another. Put on (as the Elect of God holy and beloved) bowels of mercy, kind<g ref="char:EOLhyphen"/>neſs, meekneſs, long-ſuffering, forbearing one ano<g ref="char:EOLhyphen"/>ther, forgiving one another, even as Chriſt forgave you, ſo alſo do ye:—and above all put on Charity.</hi> This is the Voice and Language of the Go<g ref="char:EOLhyphen"/>ſpel, yet true Love and Charity ſeem to be departed from the Profeſſors of it.</p>
+            <p n="4">4. A Contempt of the Goſpel and Means of Grace, which is ever attended with a ge<g ref="char:EOLhyphen"/>neral
+<pb n="21" facs="tcp:103042:12"/>
+Profaneneſs, and a ſpirit of Oppoſition to the work of Reformation, the only Re<g ref="char:EOLhyphen"/>medy of our Miſeries: We own it in our Prayers, that the way to obtain Mercy at God's hands, and to be ſaved from our Ene<g ref="char:EOLhyphen"/>mies, is to Repent; every man to mend one. Every man to keep himſelf from <hi>his Iniquity:</hi> And for Men in Authority not to bear the Sword in vain, but to uſe their utmoſt Dili<g ref="char:EOLhyphen"/>gence and Power for the Puniſhment of Wic<g ref="char:EOLhyphen"/>kedneſs and Vice, and maintenance of Reli<g ref="char:EOLhyphen"/>gion and Vertue.</p>
+            <p>And here I Crave leave for a few Words to you, My <hi>Lords</hi> the <hi>Judges,</hi> and thoſe Wor<g ref="char:EOLhyphen"/>ſhipful Gentlemen, who help to fill up the Seat of Judgment: Being hereto Encouraged by your Commendable and Religious Pra<g ref="char:EOLhyphen"/>ctice to Enter into the Houſe of God, to ask his Direction and Benediction, before you pro<g ref="char:EOLhyphen"/>ceed to Execute your Commiſſions. Not that I ſhall Preſume to dictate or Direct in the Diſcharge of your Honourable and Weighty Truſt; or to Meddle with things I underſtand not, your diſtinct Offices and Duties. And ſurely 'tis no diminution to a Divine, that he
+<pb n="22" facs="tcp:103042:13"/>
+is not a compleat Lawyer. But my deſire (as well as Duty) is, <hi>Right Honourable,</hi> to excite your Zeal for God and his Cauſe, for the Proſperity and Peace of their Majeſties and their Kingdoms. Your Lordſhips have heard ſomewhat of our publick Grievances, and un<g ref="char:EOLhyphen"/>derſtand more than I can inform you, and what the Conſequences are like to be: Now whether (next to God) ſhould we betake our ſelves, to offer our humble and earneſt Ad<g ref="char:EOLhyphen"/>dreſſes for help, but to your Lordſhips, and the reſt of thoſe Worthy Magiſtrates, who have Power and Authority put into your Hands by God and the King; that you would in your reſpective Places, by a due Execution of our wholſom Laws (for Laws not executed are as Laws repealed) endeavour to put a ſtop to that Deluge of Wickedneſs that threatens our Deſtruction?</p>
+            <p>It is obſervable, That God in Scripture a<g ref="char:EOLhyphen"/>ſcribeth to Magiſtrates, the moſt Honourable Names among Men; as <hi>Great Men, Nobles, Princes, Kings, Chief of the People, Heads over the People, Dignities and Glories;</hi> yea they are ſtyled <hi>Angels, 2 Sam.</hi> 14, 20. nay, they are <hi>called Gods,
+<pb n="23" facs="tcp:103042:13"/>
+Pſal.</hi> 82. 6. and that you anſwer theſe Titles of Honour, Truſt and Power, God both re<g ref="char:EOLhyphen"/>quires and expects, as you will anſwer it to Him, who hath thus Honoured you in his Word. And if you conſider what the Apo<g ref="char:EOLhyphen"/>ſtle, <hi>Rom.</hi> 13. ſaith of Magiſtrates, their Of<g ref="char:EOLhyphen"/>fice, Power and Authority, he ſeems to ſpeak you no leſs than the Keepers of our Liberties, the Safety of our Perſons, the Security of our Poſſeſſions, the Terror of Sinners, the Defence of Saints, the Nerves and Sinews, yea, the vi<g ref="char:EOLhyphen"/>tal Spirits of the Body Politick, without whom all things would quickly run to diſorder and Confuſion; now how becoming, how neceſ<g ref="char:EOLhyphen"/>ſary is Religion and Righteouſneſs, Courage and Zeal for God in ſuch Perſons! which on<g ref="char:EOLhyphen"/>ly can make your Authority ſerviceable to the Divine Majeſty.</p>
+            <p>Wherefore we and the whole Countrey, yea, the whole Kingdom, Cry to you, and ſuch as you, <hi>(Right Honourable and Right Wor<g ref="char:EOLhyphen"/>ſhipful)</hi> in the Language of the diſtreſſed Diſ<g ref="char:EOLhyphen"/>ciples—<hi>Save us, we periſh;</hi> help, or we are ruined: Help us againſt Impoſtors and Sedu<g ref="char:EOLhyphen"/>cers, prophane Sabbath-breakers, common and
+<pb n="24" facs="tcp:103042:14"/>
+falſe Swearers, againſt Swiniſh Drunkards, Hea<g ref="char:EOLhyphen"/>ven-daring Blaſphemers, and bold Atheiſts, who induſtriouſly labour in the Devils Ser<g ref="char:EOLhyphen"/>vice, and who ſeek to laugh and banter all true Notions of God, all practice of Religion, yea, all Honeſty and Sobriety out of the World. Let not my Lords be Angry, if I ſay once more, Help us againſt the Murmurers and unreaſonable Male-contents at our preſent Go<g ref="char:EOLhyphen"/>vernours and Government, the greateſt Bleſ<g ref="char:EOLhyphen"/>ſing (of that ſort) that ever our Kingdom en<g ref="char:EOLhyphen"/>joyed.</p>
+            <p>
+               <hi>My Lords and Gentlemen,</hi> Can you do any thing? We know you can, we hope you will, and pray you may help us againſt theſe grand Impeders of our Peace and Tranquility; who retard our full Deliverance and Salvation, and haſten Miſery and Deſtruction upon us more by their Sins, than they could do by their Hands. Conſcience; I Confeſs, cannot be compelled to love Vertue, but Reſtraints may and ought to be laid upon the openly Vitious.</p>
+            <p>Ariſe therefore, <hi>Honourable and Beloved,</hi> for your own ſakes; for the Lands ſake, for the
+<pb n="25" facs="tcp:103042:14"/>
+Lord's ſake ariſe, put on a Spirit of Zeal and Reſolution for God <hi>('tis good to be zealouſly af<g ref="char:EOLhyphen"/>fected in a good thing)</hi> ſuppreſs all topping Vice and Profaneneſs, and lift up fallen, deſpiſed, trampled-upon Religion and Godlineſs, in your reſpective Stations and Places, and ſhew your ſelves Valiant for God upon Earth. The Sword of the Spirit (the Word of God) may do ſomewhat to the Amending the Manners of Men, but it will do more when the Sword of the Magiſtrate is joyned with it. A Ma<g ref="char:EOLhyphen"/>giſtrate Conſcientious and Zealous for God, may in his place do God more Service, in gi<g ref="char:EOLhyphen"/>ving check to open Vice, and encouragement to Vertue, than many Miniſters can do, moſt Men living more by Senſe than Faith, dread<g ref="char:EOLhyphen"/>ing a good Judge or Juſtice of Peace more than God, and are more afraid of a preſent Temporal Puniſhment, than of a future, tho' an Eternal Miſery. Continual Experience proves it true, that the Price and Penalties for Oaths, Drunkenneſs, Sabbath-breaking, <hi>&amp;c.</hi> duly exacted and called for by you ac<g ref="char:EOLhyphen"/>cording to Law, prevail more upon ſuch Of<g ref="char:EOLhyphen"/>fendors, than all the Penalties threatned a<g ref="char:EOLhyphen"/>gainſt
+<pb n="26" facs="tcp:103042:15"/>
+them in the Word of God: So pow<g ref="char:EOLhyphen"/>erful is the Sword of the Magiſtrate, where the Sword of the Spirit can make no Impreſſion, work no Reformation.</p>
+            <p>Wherefore, with all Humility and Ear<g ref="char:EOLhyphen"/>neſtneſs, and (as the Apoſtle ſpeaks) in Chriſt's Name and ſtead, I once more Addreſs my ſelf to you, <hi>(Honourable and Beloved)</hi> That you would afford us your Aſſiſtance in this great and neceſſary Work. We preach againſt Wickedneſs and Vice, and we beg of you to puniſh it. We in our places preſs and exhort Men to the obſervation of the Laws of God, and we humbly pray you in your Places, to put in Execution the good and commendable Laws of the Land againſt open Enormities and Prophaneneſs. For till this be done, we are ſtill in danger of Divine Judgments; <hi>We may look for peace, and behold trouble; for ſalvati<g ref="char:EOLhyphen"/>on, but behold deſtruction,</hi> and tho' brought out of <hi>Egypt,</hi> may periſh in the Wilderneſs. But if this be univerſally and heartily endeavour<g ref="char:EOLhyphen"/>ed, we may yet hope to ſee Religion lifting up her languiſhing Head, and recover a re<g ref="char:EOLhyphen"/>pute
+<pb n="27" facs="tcp:103042:15"/>
+amongſt us, equal (at leaſt) to what Looſeneſs and Debauchery have had for di<g ref="char:EOLhyphen"/>vers years paſt. We may then hope for ſuc<g ref="char:EOLhyphen"/>ceſs againſt our Enemies, hope to ſee Mercy and Truth meet together, Righteouſneſs and Peace kiſs each other, yea, and Glory to dwell in our Land.</p>
+            <p>However, Your Reward ſhall be ſure, <hi>for them that honour me, will I honour, ſaith the Lord,</hi> 1 Sam. 2. 30. A great Word, a Promiſe whoſe Contents neither Words nor Thoughts can ful<g ref="char:EOLhyphen"/>ly reach: And he that ſpoke it hath Earth and Heaven too at his diſpoſe; and Heaven and Earth ſhall paſs, before it ſhall fail. O that it may prevail with you to ſtand up for God, for his Cauſe, his Truth, this Day, Worſhip and People; elſe were you greater than you are, the following Threatning ſhall overtake you here, or hereafter, <hi>They that deſpiſe me ſhall be lightly eſteemed. Wherefore now let the fear of the Lord be upon you, take heed and do it; for there is not Iniquity with the Lord our God, nor reſpect of Perſons, nor taking of Gifts,</hi> 2 Chron. 19. 7.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:103042:16"/>
+            <p>There is Publiſhed by the ſame Author the 3 Books following, ſold by <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns</hi> in <hi>Cheapſide.</hi>
+            </p>
+            <list>
+               <item>THe Beſt way to mend the World, by per<g ref="char:EOLhyphen"/>ſwading the Riſing Generation to an Ear<g ref="char:EOLhyphen"/>ly and ſerious practice of Piety: With An<g ref="char:EOLhyphen"/>ſwers to the principal Cavils of Satan and his Agents againſt it. <hi>&amp;c.</hi>
+               </item>
+               <item>A Dialogue between <hi>Timothy</hi> and <hi>Titus</hi> about the Articles, and ſome of the Canons of the Church of <hi>England.</hi> Wherein Super-Conformi<g ref="char:EOLhyphen"/>ty is Cenſured, and Moderation Recommend<g ref="char:EOLhyphen"/>ed. With a ſerious perſwaſive to all the Inferior Clergy of that Church. By one that heartily wiſheth Union amongſt Proteſtants.</item>
+               <item>
+                  <hi>Jericho</hi>'s Downfall; In a Sermon Preached upon <hi>Jan.</hi> 31. 1688/9. Being a Day of Publick Thankſgiving to God for our Deliverance from Popery and Arbitrary Power.</item>
+            </list>
+            <pb facs="tcp:103042:16"/>
+         </div>
+      </back>
+   </text>
+</TEI>
